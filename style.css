@@ -1,26 +1,26 @@
 @font-face {
     font-family: WCManoNegraBta;
-    src: url(WCManoNegraBta.otf);
+    src: url(/fonts/WCManoNegraBta.otf);
 }
 
 @font-face {
 	font-family: WCManoNegraBoldBta;
-	src: url(WCManoNegraBoldBta);
+	src: url(/fonts/WCManoNegraBoldBta);
 }
 
 @font-face {
 	font-family: Aleo-Regular;
-	src: url(Aleo-Regular.otf);
+	src: url(/fonts/Aleo-Regular.otf);
 }
 
 @font-face {
 	font-family: Aleo-Bold;
-	src: url(Aleo-Bold.otf);
+	src: url(/fonts/Aleo-Bold.otf);
 }
 
 @font-face {
 	font-family: Aleo-Light;
-	src: url(Aleo-Light.otf);
+	src: url(/fonts/Aleo-Light.otf);
 }
 
 html, body, ul {
@@ -170,7 +170,7 @@ li {
 	position: relative;
 	width: 155px;
 	height: 75px;
-	background-image: url(menu.png);
+	background-image: url(/img/menu.png);
 	margin: auto;
 }
 
